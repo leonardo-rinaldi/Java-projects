@@ -18,7 +18,7 @@ public class BinaryRepresentation {
   public static String binSucc (String x) {
 
     
-    if (x.equals("1")) {                                      //basic cases
+    if (x.equals("1")) {                                         //basic cases
     return "10";
     }
     
