@@ -1,0 +1,9 @@
+# Java-projets
+
+Hi Github!
+
+In this repository i upload projects that i made with Java. 
+All are simple projects that i wrote to exercise me with this programming language. 
+Certainly you will find some errors but i will try to correct them and do less error in the future.
+Make mistakes is the best way to learn new things :-)
+
