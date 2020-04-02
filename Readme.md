@@ -1,4 +1,4 @@
-# Java-projets
+# Java-projects
 
 Hi Github!
 
