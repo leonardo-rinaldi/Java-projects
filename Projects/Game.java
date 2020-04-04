@@ -333,20 +333,4 @@ public class Game {
      west();
     }
   }
-  
-  
-  
-  
-  public void restartgame() {
-   System.out.println("Do you want to play this game? Answer with y/n");
-    
-    restart = myReply.nextLine();
-    
-    if(restart.equals("y")) {
-     start();
-    }
-    else {
-      System.out.println("Game exit");
-     }
-  }
 }
