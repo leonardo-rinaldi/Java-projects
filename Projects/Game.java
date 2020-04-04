@@ -39,7 +39,7 @@ public class Game {
 			System.out.println("Hi, Welcome in this game :-)");
 			System.out.println();
 			System.out.println("Please enter your name:");
-			playerName = myRespond.nextLine();
+			playerName = myReply.nextLine();
 			System.out.println("Hello " + playerName + " let's start the game!");
 			System.out.println("Your HP: " + playerHP);
 			
@@ -199,7 +199,7 @@ public class Game {
 				System.out.println("What do you want to do?");
 				System.out.println("1: Finish him");
 				
-				choise2 = myRespond.nextInt();
+				choise2 = myReply.nextInt();
 				
 				if(choise2 == 1) {
 					System.out.println();
