@@ -17,7 +17,7 @@ public class Game {
 	int choise2;
 	int playerHP;
 	int manHP;
-	Scanner myRespond = new Scanner(System.in);
+	Scanner myReply = new Scanner(System.in);
 	
 	public static void main(String[] args) {
 		
@@ -59,7 +59,7 @@ public class Game {
 			System.out.println("3. Leave");
 			System.out.println();
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if(choise == 1) {
 				ending();
@@ -106,7 +106,7 @@ public class Game {
 			System.out.println("4: South");
 			System.out.println();
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if (choise == 1) {
 				north();
@@ -136,7 +136,7 @@ public class Game {
 			System.out.println("1: Go to the man");
 			System.out.println("2: Run away");
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if(choise == 1) {
 				System.out.println();
@@ -146,7 +146,7 @@ public class Game {
 				System.out.println("1: Fight him.");
 				System.out.println("2. Run away");
 				
-				choise2 = myRespond.nextInt();
+				choise2 = myReply.nextInt();
 				
 				if(choise2 == 1) {
 					System.out.println();
@@ -189,7 +189,7 @@ public class Game {
 			System.out.println("1: Hit him. ");
 			System.out.println("2: Speak with him.");
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if(choise == 1) {
 				System.out.println();
@@ -240,7 +240,7 @@ public class Game {
 			System.out.println("1: Enter in the house.");
 			System.out.println("2: Come back.");
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if(choise == 1) {
 				house();
@@ -261,7 +261,7 @@ public class Game {
 			System.out.println("1: Read it");
 			System.out.println("2: Run away");
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if(choise == 1) {
 				read();
@@ -292,7 +292,7 @@ public class Game {
 			System.out.println("1: I go to the girl.");
 			System.out.println("2: I think.");
 			
-			choise = myRespond.nextInt();
+			choise = myReply.nextInt();
 			
 			if(choise == 1) {
 				System.out.println();
@@ -302,7 +302,7 @@ public class Game {
 				System.out.println("1. I help her.");
 				System.out.println("2. I want to rob her.");
 				
-				choise2 = myRespond.nextInt();
+				choise2 = myReply.nextInt();
 				
 					if(choise2 == 1) {
 						System.out.println();
@@ -340,7 +340,7 @@ public class Game {
 		public void restartgame() {
 			System.out.println("Do you want to play this game? Answer with y/n");
  			
- 			restart = myRespond.nextLine();
+ 			restart = myReply.nextLine();
  			
  			if(restart.equals("y")) {
  				start();
