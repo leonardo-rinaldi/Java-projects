@@ -26,7 +26,6 @@ public class iva {
          
 
          System.out.println("Calcolo IVA");
-         System.out.println("Copyright Leo Corp");
          System.out.println("");
          System.out.println("Prezzo senza IVA: ");
 
