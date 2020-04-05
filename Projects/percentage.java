@@ -20,7 +20,6 @@ public class percentage {
    
   
   System.out.println("Programma per la percentuale di due numeri.");
-  System.out.println("Copyright Leo Corp.");
   System.out.println();
   System.out.println("Inserisci il totale:");
   
