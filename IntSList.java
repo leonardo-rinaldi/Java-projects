@@ -1,12 +1,5 @@
 //quarta lezione java
 
-//iniziamo una parte nuova
-//ci concentreremo sui dati, su come organizzare l'informazione
-//programmazione orientata agli oggetti
-//introduciamo le classi
-//lista di interi (stile scheme)
-//il nome del programma è IntSList
-
 //nome dei mattoni fondamentali in scheme:
 //lista vuota: null
 //accedere al primo elemento della lista: car
