@@ -17,14 +17,14 @@ public class ListTestBTR {
 		
 		StringSList list = new StringSList();
 		
-		for(int i = n; i > 0; i--) {  //parte da 5 e va all'indietro fino a 1
+		for(int i = n; i > 0; i--) {  
 			
-			list = list.cons(x);   //le raggruppo insieme
+			list = list.cons(x);   
 			
 			x = btr(x);   
 		}
 		
-		return list.reverse();  //viene capovolta la stringa perchè parto da 5 per andare a 1 e quindi mi viene fuori al contrario
+		return list.reverse();  
 	}
 	
 
