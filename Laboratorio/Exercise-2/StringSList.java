@@ -4,12 +4,9 @@ public class StringSList {
 	
 	public static final StringSList NULL_STRINGLIST = new StringSList();
 	
-	//con private abbiamo creato degli oggetti non modificabili
-	//final perchè le liste sono immutabili
-	
 	private final boolean empty;   
 	private final String first;
-	private final StringSList rest;  //resto della lista vuota
+	private final StringSList rest;  
 	
 	public StringSList() {
 		
