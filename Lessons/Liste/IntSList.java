@@ -1,24 +1,14 @@
 //quarta lezione java
 
-//nome dei mattoni fondamentali in scheme:
-//lista vuota: null
-//accedere al primo elemento della lista: car
-//accedere agli altri elementi: cdr
-//sapere se una lista è vuota: null?
-//dato un elemento e una lista costruisce una lista più grande: cons
-
-//in java non esiste il concetto della lista vuota, dobbiamo crearlo
-//costruttore: elemento per costruire un oggetto nuovo, si usa new
-
 
 //esempio protocollo:
 //qui sotto il. si riferisce alla lista
 
-// IntSList il = new IntSList()   //null
-// il.isNull() : boolean         //null?
-// il.car() : int                //car
-// il.cdr() : IntSList           //cdr
-// il.cons(n) : IntSList         //cons
+// IntSList il = new IntSList()   null
+// il.isNull() : boolean          null?
+// il.car() : int                 car
+// il.cdr() : IntSList            cdr
+// il.cons(n) : IntSList          cons
 
 /* Esempi:
  * 
