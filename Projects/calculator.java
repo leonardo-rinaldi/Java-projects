@@ -449,5 +449,5 @@ public class calculator {
   }
  }
 
-} //calculator
+} //class calculator
 
