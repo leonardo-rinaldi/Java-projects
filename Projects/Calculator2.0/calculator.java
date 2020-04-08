@@ -37,7 +37,7 @@ public class calculator {
 		System.out.println();
 		System.out.println("Vuoi tornare alle opzioni? y/n");
 		
-        option = choise.next();
+        	option = choise.next();
 		
 		if(option.equals("y")) {
 			calculatorTest.main(null);
