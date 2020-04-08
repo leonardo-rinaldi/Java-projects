@@ -1,7 +1,7 @@
 /*
  * "Calculator" made with Java.
  * You can choose one of the 12 programs.
- * This program is in italian language.
+ * This program is in italian.
  * 
  */
 
