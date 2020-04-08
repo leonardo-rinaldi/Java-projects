@@ -20,7 +20,6 @@ public static void main(String[] args) {
 	
 	
 	System.out.println();
-	System.out.println("Calcolatrice Leo Corp");
 	System.out.println("Scegli un opzione di calcolo:");
 	System.out.println();
 	System.out.println("1: Somma");
