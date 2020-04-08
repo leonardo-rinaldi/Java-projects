@@ -40,7 +40,7 @@ public class calculator {
   System.out.println("4: Divisione");
   System.out.println("5: Massimo fra due numeri");
   System.out.println("6: Minimo fra due numeri");
-  System.out.println("6: Calcola la radice quadrata");
+  System.out.println("7: Calcola la radice quadrata");
   System.out.println("8: Coseno di un angolo");
   System.out.println("9: Seno di un angolo");
   System.out.println("10: Da gradi a radianti");
