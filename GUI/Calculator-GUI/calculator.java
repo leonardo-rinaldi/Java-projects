@@ -1,7 +1,7 @@
 /*
  * This is a GUI for a "calculator" made with Java
  * It isn't very sophisticated but works :-)
- * I created it to start learn something about Java Swing and about GUI's
+ * I created it to start learn something about GUI's
  * This program is in Italian.
  * 
  */
