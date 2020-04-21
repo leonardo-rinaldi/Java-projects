@@ -18,7 +18,7 @@ public class PariDispari {
 		
 		numero = tastiera.nextInt();
 		
-		if(numero % 2 == 0) {							//se il resto della divisione è 0 vuol dire che il numero è pari
+		if(numero % 2 == 0) {			
 			System.out.println("True");
 		}
 		
