@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 
 
-public class operatore {
+public class Operatore {
 
 	public static void main(String[] args) {
 		
