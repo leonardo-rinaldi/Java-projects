@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* 
- * PROGRAMMI
+ * 
  * 
  *  2- Si scriva un programma che usi Scanner per leggere due stringhe
  *     dalla tastiera e che visualizzi ciascuna Stringa su una riga
