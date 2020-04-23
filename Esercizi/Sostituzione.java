@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 
 
-public class sostituzione {
+public class Sostituzione {
 
 	public static void main(String[] args) {
 		
