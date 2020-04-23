@@ -4,20 +4,20 @@ import java.util.Scanner;
  * 
  * 
  * 2- Si scriva un programma che dimostri la conversione di tipo per valori double, 
- * 	  effettuando le seguenti attività.
+ *    effettuando le seguenti attività.
  * 
  * 	-Utilizzare Scanner per leggere un numero in virgola mobile x
- *  -Convertire x in un valore intero e memorizzare il risultato in y
- *  -Visualizzare in maniera distinta x e y
- *  -Convertire x in un valore di tipo byte e memorizzare il risultato in z
- *  -Visualizzare in maniera distinta x e z
+ *  	-Convertire x in un valore intero e memorizzare il risultato in y
+ *  	-Visualizzare in maniera distinta x e y
+ * 	-Convertire x in un valore di tipo byte e memorizzare il risultato in z
+ *  	-Visualizzare in maniera distinta x e z
  * 
  * 	
  * 
  */
 
 
-public class conversioneDiTipo {
+public class ConversioneDiTipo {
 
 	public static void main(String[] args) {
 		
