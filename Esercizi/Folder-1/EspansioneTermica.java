@@ -31,10 +31,10 @@ public class EspansioneTermica {
 	public static void main(String[] args) {
 	
 		
-		double lunghezzaIniziale;  			   //L0
+		double lunghezzaIniziale;  		   //L0
 		double variazioneTemperatura; 		   //T
-		double coefficienteDilatazioneLineare; //alpha
-		double dilatazioneLineare; 			   //L
+		double coefficienteDilatazioneLineare;     //alpha
+		double dilatazioneLineare; 		   //L
 		String nomeMateriale;
 		
 		Scanner tastiera = new Scanner(System.in);
