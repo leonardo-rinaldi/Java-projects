@@ -9,7 +9,7 @@ import java.util.Scanner;
  *     temperature. La variazione lineare della lunghezza di un materiale libero di
  *     espandersi è descritta dalla seguente equazione: 
  *     
- *     L = alpa * L0 * T
+ *     L = alpha * L0 * T
  *     
  *     dove L0 è la lunghezza iniziale del materiale in metri, L è la dilatazione in
  *     metri, T è la variazione della temperatura in gradi Celsius e alpha è il
