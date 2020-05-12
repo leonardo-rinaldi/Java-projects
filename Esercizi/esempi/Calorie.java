@@ -51,8 +51,8 @@ public class Calorie {
 		numeroBarretteUomo = formulaUomo / BARRETTA_CIOCCOLATO; 
 		numeroBarretteDonna = formulaDonna / BARRETTA_CIOCCOLATO;
 		
-		System.out.println("Barrette che si dovrebbero consumare per un uomo: " + numeroBarretteUomo);
-		System.out.println("Barrette che si dovrebbero consumare per una donna: " + numeroBarretteUomo);
+		System.out.println("Barrette consumabili da un uomo: " + numeroBarretteUomo);
+		System.out.println("Barrette consumabili da una donna: " + numeroBarretteDonna);
 
 	}
 
