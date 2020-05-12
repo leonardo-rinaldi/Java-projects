@@ -3,6 +3,9 @@ import huffman_toolkit.*;
 /*
  * src = sorgente
  * dst = destinazione
+ *
+ * copyFile(primofile.java, secondofile.txt)
+ *
  */
 
 public class IOExamples {
@@ -21,7 +24,7 @@ public class IOExamples {
     //  char c = in.readChar();   leggo il numero di caratteri
     //  out.writeChar( c );
       
-     // int bit = in.readBit(); //leggo il numero di bit
+     // int bit = in.readBit();   leggo il numero di bit
      // out.writeBit( bit );
       
       String bits = in.readCode(7); //leggo 7 bit alla volta
@@ -42,8 +45,6 @@ public class IOExamples {
 } // class IOExamples
 
 
-//copyFile(primofile.java, secondofile.txt)
 
-//IOExamples.copyFile("IOExamples.java", "prova.txt")
 
-//terminale mac usa il comando diff per le differenze fra due file
+
