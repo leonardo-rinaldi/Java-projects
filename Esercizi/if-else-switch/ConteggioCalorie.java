@@ -31,7 +31,7 @@ import java.util.Scanner;
  * 
  */
 
-public class conteggioCalorie {
+public class ConteggioCalorie {
 
 
 	public static int BARRETTA_CIOCCOLATO = 230;
