@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
- * 	8- Si scriva un ciclo che conti il numero di caratteri di spaziattura in una stringa data.
+ * 	8- Si scriva un ciclo che conti il numero di caratteri di spazziattura in una stringa data.
  */
 
 public class CaratteriSpaziatura {
