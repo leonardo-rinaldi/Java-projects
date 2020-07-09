@@ -9,7 +9,7 @@ import java.util.Scanner;
  * 		memorizzazione. In caso affermativo, il programma comprime e memorizza il file. Il processo continua
  * 		finchè non incontra un file che supera lo spazio disponibile.
  * 
- *  	Es.
+ *  	Esempio:
  *  
  *  	Dimensione file non compresso = 1100 byte
  *  	Blocchi disponibili = 1000
