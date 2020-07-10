@@ -12,7 +12,7 @@ import java.util.Scanner;
  * 	   Inserisci la velocità iniziale dela palla: 300
  * 	   
  *     Tempo: 0 Altezza: 0.0
- * 	   Tempo: 1 Altezza: 300.0
+ *     Tempo: 1 Altezza: 300.0
  *     Tempo: 2 Altezza: 504.0
  *     Tempo: 3 Altezza: 612.0
  *     Tempo: 4 Altezza: 624.0
