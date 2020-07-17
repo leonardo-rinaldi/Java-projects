@@ -1,5 +1,5 @@
 /*
- * 	MagicBall is a simple game based on Magic ball 8. I've create 
+ *  MagicBall is a simple game based on Magic ball 8. I've create 
  *  a simple GUI to play with it in a easier way. In the window you can ask a
  *  question to the ball and receive a respond. The respond is generated casually 
  *  through the class Ball. It's not perfect, there's something to fix, but i've
