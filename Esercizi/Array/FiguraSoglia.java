@@ -9,16 +9,16 @@ import java.util.Scanner;
  * 		i valori in figura. Gli altri elementi sono 0.0. Per esempio, se i valori in 
  * 		figura sono:
  * 
- * 		1.2	 1.3  4.5  6.0	 2.7
- * 		1.7	 3.3  4.4  10.5  17.0
- * 		1.1	 4.5  2.1  25.3  9.2
- * 		1.0	 9.5  8.3  2.9	 2.1
+ * 		1.2  1.3  4.5  6.0   2.7
+ * 		1.7  3.3  4.4  10.5  17.0
+ * 		1.1  4.5  2.1  25.3  9.2
+ * 		1.0  9.5  8.3  2.9   2.1
  * 
  * 		il valore medio è 5.93. L'array risultante per una soglia pari a 1.4 dovrebbe
  * 		essere il seguente:
  * 
- * 		0.0	 0.0  0.0  0.0	0.0
- * 		0.0	 0.0  0.0  1.0  1.0
+ * 		0.0  0.0  0.0  0.0  0.0
+ * 		0.0  0.0  0.0  1.0  1.0
  * 		0.0  1.0  0.0  1.0  1.0
  * 		0.0  1.0  0.0  0.0  0.0
  * 
@@ -26,12 +26,12 @@ import java.util.Scanner;
  * 
  * 		0.0  0.0  1.0  1.0  0.0
  * 		0.0  0.0  1.0  1.0  1.0
- *      0.0  1.0  0.0  1.0  1.0
- *      0.0  1.0  1.0  0.0  0.0
+ *      	0.0  1.0  0.0  1.0  1.0
+ *      	0.0  1.0  1.0  0.0  0.0
  *      
  *      Valori in input:
  *      
- *      1,2
+ *      	1,2
  *		1,3
  *		4,5
  *		6,0
