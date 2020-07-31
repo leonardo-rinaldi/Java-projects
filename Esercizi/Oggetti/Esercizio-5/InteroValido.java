@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 /*
- * 	CAPITOLO 8
- * 
  * 	5- Si consideri una classe Java da usare per ricevere dall'utente
  * 	   un intero valido. Un oggetto di questa classe deve avere i 
  * 	   seguenti attributi:
