@@ -1,26 +1,26 @@
 import java.util.Scanner;
 
 /*
- * 	7-	Si consideri la classe barcaAMotore che rappresenta una barca a motore. 
- *      Una barca a motore presenta i seguenti attributi:
+ * 	7- Si consideri la classe barcaAMotore che rappresenta una barca a motore. 
+ *      	Una barca a motore presenta i seguenti attributi:
  *      
- *      - la capacità del serbatoio;
- *      - la quantità di carburante nel serbatoio;
- *      - la velocità massima della barca;
- *      - la velocità corrente della barca;
- *      - l'efficenza del motore della barca;
- *      - la distanza percorsa.
+ *         - la capacità del serbatoio;
+ *         - la quantità di carburante nel serbatoio;
+ *         - la velocità massima della barca;
+ *     	   - la velocità corrente della barca;
+ *    	   - l'efficenza del motore della barca;
+ *         - la distanza percorsa.
  *      
- *      La classe ha i metodi per le seguenti attività:
+ *         La classe ha i metodi per le seguenti attività:
  *      
- *      - cambiare la velocità della barca;
- *      - far navigare la barca per un certo tempo alla velocità corrente;
- *      - riempire il serbatoio con una certa quantità di carburante;
- *      - restituire l'ammontare di carburante nel serbatoio;
- *      - restituire la distanza percorsa.
+ *         - cambiare la velocità della barca;
+ *         - far navigare la barca per un certo tempo alla velocità corrente;
+ *         - riempire il serbatoio con una certa quantità di carburante;
+ *         - restituire l'ammontare di carburante nel serbatoio;
+ *         - restituire la distanza percorsa.
  *      
- *      Se la barca ha un'efficenza e, l'ammontare di carburante usato quando si 
- *      naviga a una velocità s per un tempo t è: e * s^2 * t. La distanza è s * t. 
+ *         Se la barca ha un'efficenza e, l'ammontare di carburante usato quando si 
+ *         naviga a una velocità s per un tempo t è: e * s^2 * t. La distanza è s * t. 
  * 
  */
 
