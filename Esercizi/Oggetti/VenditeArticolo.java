@@ -1,26 +1,24 @@
 import java.util.Scanner;
 
 /*
- * 	CAPITOLO 8
- * 
  * 	6- Si consideri una classe che registra le vendite di un articolo. Un oggetto di
  * 	   questa classe avrà i seguenti attributi:
  * 		
  * 	   - numero venduti;
  * 	   - totale vendite;
- *     - totale scontati;
- *     - costo per articolo;
- *     - quantità all'ingrosso;
- *     - sconto percentuale all'ingrosso.
- *     
+ *     	   - totale scontati;
+ *         - costo per articolo;
+ *         - quantità all'ingrosso;
+ *         - sconto percentuale all'ingrosso.
+ *      
  *     Inoltre avrà i seguenti metodi:
  *     
- *     - registraVendita(n) - registra la vendita di n articoli. Se n supera la quantità
- *       all'ingrosso, il costo per ogni articolo deve essere ridotto della percentuale di
- *       sconto all'ingrosso;
+ *        - registraVendita(n) - registra la vendita di n articoli. Se n supera la quantità
+ *          all'ingrosso, il costo per ogni articolo deve essere ridotto della percentuale di
+ *          sconto all'ingrosso;
  *       
- *     - mostraVendite - mostra il numero di articoli venduti, il totale delle vendite e lo
- *       sconto totale.
+ *        - mostraVendite - mostra il numero di articoli venduti, il totale delle vendite e lo
+ *          sconto totale.
  * 
  */
 
