@@ -5,16 +5,16 @@ import java.util.Scanner;
  * 	   I suoi attributi sono:
  * 
  * 	   - nome della persona;
- *     - cognome della persona;
- *     - indirizzo e-mail della persona;
- *     - numero di telefono della persona.
+ *     	   - cognome della persona;
+ *     	   - indirizzo e-mail della persona;
+ *     	   - numero di telefono della persona.
  *     
- *     La classe avrà i metodi per:
+ *     	   La classe avrà i metodi per:
  *     
- *     - accedere a ogni attributo;
- *     - cambiare l'indirizzo e-mail;
- *     - cambiare il numero di telefono;
- *     - verificare se due istanze sono uguali sulla base del nome.
+ *         - accedere a ogni attributo;
+ *         - cambiare l'indirizzo e-mail;
+ *         - cambiare il numero di telefono;
+ *         - verificare se due istanze sono uguali sulla base del nome.
  * 
  */
 
