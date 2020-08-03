@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 		Il programma richiederà i dati di entrambe le specie e risponderà dicendo quanti
  * 		anni ci vorranno per far si che la specie con il minor numero di individui superi
  * 		quella con il numero maggiore di individui. Le due specie possono essere inserite 
- * 	    in qualsiasi ordine.
+ * 	    	in qualsiasi ordine.
  * 
  */
 
