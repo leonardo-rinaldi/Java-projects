@@ -2,15 +2,15 @@ import java.util.Scanner;
 
 /* 
  * 	11- Si scriva un programma che risponda a domande come la seguente. Si supponga
- * 		che la specie Bufalo Klingon abbia una popolazione di 100 individui e un 
- * 		tasso di crescita del 15% e che la specie Elefante abbia una popolazione di
- * 		10 individui e un tasso di crescita del 35%. In quanti anni la popolazione di
- * 		elefanti supererà quella dei bufali klingon?
+ * 	    che la specie Bufalo Klingon abbia una popolazione di 100 individui e un 
+ * 	    tasso di crescita del 15% e che la specie Elefante abbia una popolazione di
+ * 	    10 individui e un tasso di crescita del 35%. In quanti anni la popolazione di
+ * 	    elefanti supererà quella dei bufali klingon?
  * 
- * 		Il programma richiederà i dati di entrambe le specie e risponderà dicendo quanti
- * 		anni ci vorranno per far si che la specie con il minor numero di individui superi
- * 		quella con il numero maggiore di individui. Le due specie possono essere inserite 
- * 	    	in qualsiasi ordine.
+ * 	    Il programma richiederà i dati di entrambe le specie e risponderà dicendo quanti
+ * 	    anni ci vorranno per far si che la specie con il minor numero di individui superi
+ * 	    quella con il numero maggiore di individui. Le due specie possono essere inserite 
+ * 	    in qualsiasi ordine.
  * 
  */
 
