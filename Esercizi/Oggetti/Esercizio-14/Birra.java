@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /* 
- * 	4-	Definire una classe Birra che contiene le seguenti variabili di istanza con
+ * 	     4- Definire una classe Birra che contiene le seguenti variabili di istanza con
  * 	 	i metodi get e set:
  * 
  * 		String nome;	//il nome della birra
@@ -9,11 +9,11 @@ import java.util.Scanner;
  * 		
  * 		Aggiungere il seguente metodo:
  * 
- * 		//	Questo metodo restituisce il numero di boccali che un individuo
- * 		//	di peso leggero può bere in base alla percentuale di alcool della
- * 		//	birra, supponendo che un boccale sia di 12 once. Questa è una
- * 		// 	stima. Il metodo suppone che il limite legale di alcool nel sangue
- * 		//  sia di 0.08.
+ * 		// Questo metodo restituisce il numero di boccali che un individuo
+ * 		// di peso leggero può bere in base alla percentuale di alcool della
+ * 		// birra, supponendo che un boccale sia di 12 once. Questa è una
+ * 		// stima. Il metodo suppone che il limite legale di alcool nel sangue
+ * 		// sia di 0.08.
  * 
  * 		public double numeroBoccaliBevibili(double peso) {
  * 		double numBoccali;
