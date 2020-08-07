@@ -1,5 +1,3 @@
-package oggetti;
-
 /*
  * 	9- Si riscriva la classe Cane del Listato 8.1 utilizzando le informazioni e i principi
  * 	   dell'incapsulamento descritti nella sezione 8.2. La nuova versione dovrebbe includere
