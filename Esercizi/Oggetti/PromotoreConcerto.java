@@ -1,10 +1,6 @@
-package oggetti;
-
 import java.util.Scanner;
 
 /*
- * 	CAPITOLO 8
- * 
  * 	8- Si consideri una classe PromotoreConcerto che registra i biglietti venduti per
  * 	   un concerto. Prima del giorno del concerto i biglietti vengono venduti solo al 
  * 	   telefono. Le vendite il giorno del concerto sono fatte di persona, sul posto.
