@@ -1,8 +1,6 @@
 package oggetti;
 
 /*
- * 	CAPITOLO 8
- * 
  * 	9- Si riscriva la classe Cane del Listato 8.1 utilizzando le informazioni e i principi
  * 	   dell'incapsulamento descritti nella sezione 8.2. La nuova versione dovrebbe includere
  * 	   metodi set e get. Si definisca anche un metodo equals che restituisca true se il nome,
