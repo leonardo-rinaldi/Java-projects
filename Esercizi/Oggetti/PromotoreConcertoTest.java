@@ -1,5 +1,3 @@
-package oggetti;
-
 /*
  * 	Test della classe PromotoreConcerto
  */
