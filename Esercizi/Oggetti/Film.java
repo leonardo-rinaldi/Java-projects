@@ -38,7 +38,7 @@ public class Film {
 	/*
 	 * Precondizione: valutazione deve essere un intero.
 	 * Restituisce il numero di persone che hanno votato
-     * un determinato punteggio.
+    	 * un determinato punteggio.
 	 */
 	
 	public void aggiungiValutazione(int valutazione) {
