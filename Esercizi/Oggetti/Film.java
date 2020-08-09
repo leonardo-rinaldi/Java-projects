@@ -2,8 +2,8 @@
  * 	10-	Si consideri una classe Film che contenga informazioni relative a un film. La classe
  * 		ha i seguenti attributi.
  * 
- * 	    - il titolo del film;
- * 	    - la classificazione MPAA (Motion Picture Association of America) (per esempio G, PG,
+ * 	   	- il titolo del film;
+ * 	        - la classificazione MPAA (Motion Picture Association of America) (per esempio G, PG,
  * 		  PG-13,R);
  * 		- il numero di persone che hanno assegnato al film la valutazione 1 (Terribile);
  * 		- il numero di persone che hanno assegnato al film la valutazione 2 (Brutto);
