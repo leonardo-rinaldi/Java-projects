@@ -25,7 +25,7 @@ import java.util.Scanner;
  * 
  */
 
-public class ProgettocienzaPunteggio {
+public class ProgettoScienzaPunteggio {
 
 	private String descrizioneOggetto;
 	private int punteggioMassimo;
