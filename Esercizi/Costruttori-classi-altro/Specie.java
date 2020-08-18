@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 /*
- * 	CAPITOLO 9
- * 
  * 	20- Si modifichi la definizione della classe Specie aggiungendo i metodi
  * 	    seguenti.
  * 
