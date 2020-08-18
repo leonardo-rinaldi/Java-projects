@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 /*
- * 	CAPITOLO 9
- * 
  * 	3- Si usi la classe Animale per scrivere un programma che legge i dati di 
  * 	   cinque animali e mostri le seguenti informazioni: nome del più piccolo,
  * 	   nome del più grande, nome del più vecchio, nome del più giovane, peso
