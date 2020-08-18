@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 /*
- * 	CAPITOLO 9
- * 
  * 	2- Si crei una classe Persona che presenti gli attributi nome ed età e i
  * 	   metodi per eseguire le seguenti attività.
  * 
