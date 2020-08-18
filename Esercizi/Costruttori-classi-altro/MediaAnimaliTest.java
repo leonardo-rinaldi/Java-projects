@@ -1,6 +1,5 @@
 /*
- * 
- * 
+ * Test della classe MediaAnimali
  */
 
 public class MediaAnimaliTest {
