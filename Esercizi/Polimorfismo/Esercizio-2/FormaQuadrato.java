@@ -1,6 +1,4 @@
 /*
- *	CAPITOLO 11
- *
  * 	2-	Si crei una classe Quadrato derivata da FormaDisegnabile, come descritta nel
  * 		precedente esercizio. Un oggetto Quadrato ha una variabile di istanza che 
  * 		rappresenta la lunghezza del lato. La classe dovrebbe avere un metodo get
