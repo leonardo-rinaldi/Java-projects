@@ -1,6 +1,4 @@
 /*
- *	CAPITOLO 11
- *
  * 	4- Si derivi una classe astratta ScontoQuantità da PoliticaSconto, come descritta
  * 	   nell'esercizio 3. Essa dovrebbe avere un costruttore con due parametri, minimo
  * 	   e percentuale. Si dovrebbe ridefinire il metodo calcolaSconto in modo che se la
