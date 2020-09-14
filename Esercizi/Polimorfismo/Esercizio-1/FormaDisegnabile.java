@@ -1,6 +1,4 @@
 /*
- *	CAPITOLO 11
- *
  *	1-	Si supponga di voler implementare un programma di disegno che crei varie forme
  *		utilizzando i caratteri della tastiera. Si implementi una classe base astratta
  *		FormaDisegnabile che definisce il centro (due valori interi) e il colore (una
