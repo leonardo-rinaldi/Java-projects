@@ -5,8 +5,8 @@
 public class FrecciaTest {
 
 	public static void main(String[] args) {
-		FrecciaDestra freccia = new FrecciaDestra(7, 16);
-		freccia.disegnaQui();
+		FrecciaDestra frecciaD = new FrecciaDestra(7, 16);
+		frecciaD.disegnaQui();
 		
 		FrecciaSinistra frecciaS = new FrecciaSinistra(7, 16);
 		frecciaS.disegnaQui();
