@@ -1,17 +1,17 @@
 /*
- * 	12- Si definiscano due classi derivate dalla classe FormaGeometrica.
- * 		Le due classi saranno chiamate FrecciaDestra e FrecciaSinistra.
- * 		Queste classi saranno come le classi Rettangolo e Triangolo, ma
- * 		disegneranno frecce che puntano, rispettivamente, a destra e a 
- * 		sinistra. Per esempio, la seguente freccia punta a destra:
+ *12- Si definiscano due classi derivate dalla classe FormaGeometrica.
+ *    Le due classi saranno chiamate FrecciaDestra e FrecciaSinistra.
+ *    Queste classi saranno come le classi Rettangolo e Triangolo, ma
+ *    disegneranno frecce che puntano, rispettivamente, a destra e a 
+ *    sinistra. Per esempio, la seguente freccia punta a destra:
  * 
- * 		      		   *
- * 		   			   **
- * 					   * *
+ * 		      	       *
+ * 		   	       **
+ * 			       * *
  * 		****************  *
- * 					   * *
- *    				   **
- *    				   *
+ * 			       * *
+ *    			       **
+ *    			       *
  *    
  *    La dimensione della freccia è determinata da due numeri, uno per la
  *    lunghezza della coda e uno per la larghezza della punta della freccia.
