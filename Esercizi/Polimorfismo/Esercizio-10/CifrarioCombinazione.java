@@ -31,7 +31,7 @@ public class CifrarioCombinazione implements CodificatoreMessaggio {
 	 * codificarlo
 	 */
 	
-	public String combinazione(String messaggio) {	// alla fine togli static
+	public String combinazione(String messaggio) {
 		String parola = "";
 		double lunghezzaMessaggio = messaggio.length();		//trovo la lunghezza della stringa
 		double metà = lunghezzaMessaggio / 2;			//trovo la metà della stringa
