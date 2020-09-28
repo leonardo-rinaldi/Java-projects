@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/*
- * 	CAPITOLO 12
- * 
+/* 
  * 	1- Scrivere un programma in una classe ContaFamiglie che conti il numero di
  * 	   famiglie il cui reddito è al di sotto di un certo valore. Leggere un intero
  * 	   k da tastiera e, in seguito, creare un array di valori double di dimensione k.
