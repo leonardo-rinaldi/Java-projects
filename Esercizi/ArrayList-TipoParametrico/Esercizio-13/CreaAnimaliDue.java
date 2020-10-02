@@ -3,10 +3,10 @@ import java.util.Scanner;
 
 /*
  *	13- Si ripeta il precedente progetto, ma ordinando gli oggetti Animale
- *		rispetto al peso dell'animale invece che rispetto al nome. Dopo aver
- *		visualizzato i dati sullo schermo, si scriva il numero e la percentuale
- *		degli animali il cui peso è, rispettivamente, sotto i 5 kg, compreso tra
- *		i 5 kg e i 10 kg e oltre i 10 kg.
+ *	    rispetto al peso dell'animale invece che rispetto al nome. Dopo aver
+ *	    visualizzato i dati sullo schermo, si scriva il numero degli animali
+ *	    il cui peso è, rispettivamente, sotto i 5 kg, compreso tra i 5 kg e
+ *	    i 10 kg e oltre i 10 kg.
  *
  */
 
