@@ -4,6 +4,11 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/*
+*   Questo esempio permette di creare un file di testo e
+*   scriverci dentro utilizzando Java
+*/
+
 public class FileDiTesto {
 
     public static void main(String[] args) {
